@@ -1,0 +1,56 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "pLLrg0AYZCnNnnyU-9wyZETgJY8",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "dMHGWZwIOIkjHYfwZshykIEHKSg",
+            "id": "UCJQJAI7IjbLcpsjWdSzYz0Q",
+            "snippet": {
+                "title": "Thu Vu data analytics",
+                "description": "Hi there! Thanks for checking out my channel. Me in 3 words: Economist turned data nerd. Me in more words: I'm a Data science consultant by profession in the past 5 years, based in the Netherlands. My background is in Economics and Computer Science. In my free time I love to read, code and draw. I'm passionate about being a data detective and being creative when explaining hard topics in data science and general tech. \n\nIf you\u2019re looking for information on entering a Data analytics/ Data science career,  or want to advance on your R/ Python skills, or see the day in the life of a Data Scientist and get an insider look in this career path this is the channel for you.\n\nDisclaimers: \nAll opinions are of my own and not of my employers.\n\r\n",
+                "customUrl": "@thuvu5",
+                "publishedAt": "2021-04-30T15:22:58.33437Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/s3HLl-uzqEaqww2tkWKgjLFfgoe2NUsu4tRLm7g5TOScMK3aqOl1wGhar3yZRa1VH4BK3rzHyg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/s3HLl-uzqEaqww2tkWKgjLFfgoe2NUsu4tRLm7g5TOScMK3aqOl1wGhar3yZRa1VH4BK3rzHyg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/s3HLl-uzqEaqww2tkWKgjLFfgoe2NUsu4tRLm7g5TOScMK3aqOl1wGhar3yZRa1VH4BK3rzHyg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Thu Vu data analytics",
+                    "description": "Hi there! Thanks for checking out my channel. Me in 3 words: Economist turned data nerd. Me in more words: I'm a Data science consultant by profession in the past 5 years, based in the Netherlands. My background is in Economics and Computer Science. In my free time I love to read, code and draw. I'm passionate about being a data detective and being creative when explaining hard topics in data science and general tech. \n\nIf you\u2019re looking for information on entering a Data analytics/ Data science career,  or want to advance on your R/ Python skills, or see the day in the life of a Data Scientist and get an insider look in this career path this is the channel for you.\n\nDisclaimers: \nAll opinions are of my own and not of my employers.\n\r\n"
+                },
+                "country": "US"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUJQJAI7IjbLcpsjWdSzYz0Q"
+                }
+            },
+            "statistics": {
+                "viewCount": "3318556",
+                "subscriberCount": "122000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "59"
+            }
+        }
+    ]
+}
